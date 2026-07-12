@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Essam Mohy Eldin Hassan</h1>
+<h1 align="center">Hi, I'm Essam Mohy</h1>
 
 <h3 align="center">
-Computer Science Student • Full Stack Developer • React & React Native Developer
+Full Stack Developer • React & React Native Developer
 </h3>
 
 <p align="center">
