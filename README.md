@@ -100,13 +100,6 @@ Computer Science Student • Full Stack Developer • React & React Native Devel
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=EssaMohy&theme=algolia&no-frame=true&column=4"/>
-</p>
----
-
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
