@@ -139,7 +139,7 @@ Computer Science Student • Full Stack Developer • React & React Native Devel
 
 # 📫 Connect With Me
 
-<p align="center">
+<p>
 
 <a href="https://github.com/EssaMohy">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
