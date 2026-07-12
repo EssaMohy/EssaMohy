@@ -126,30 +126,22 @@ Computer Science Student • Full Stack Developer • React & React Native Devel
 
 # 📫 Connect With Me
 
-<p>
-
-<a href="https://github.com/EssaMohy">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/essam-mohy">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:essammohy67@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://essam-folio.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/EssaMohy">
+    <img src="https://skillicons.dev/icons?i=github" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
