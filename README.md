@@ -1,120 +1,196 @@
+
 <h1 align="center">Hi 👋, I'm Essam Mohy Eldin Hassan</h1>
-<h3 align="center">Computer Science Student | Full Stack Developer | React & React Native Developer</h3>
+
+<h3 align="center">
+Computer Science Student • Full Stack Developer • React & React Native Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Full+Stack+Developer;React+%26+React+Native+Developer;TypeScript+Enthusiast;Always+Learning+New+Technologies&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;React+Native+Developer;Node.js+Backend+Developer;AI+Enthusiast;Always+Learning+New+Technologies+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EssaMohy&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="70"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 Computer Science Student at **Cairo University**
-- 💻 Passionate about **Full Stack Web Development**
-- 📱 Building cross-platform mobile applications using **React Native**
-- 🌱 Currently learning **System Design, Docker, Prisma, PostgreSQL, and Cloud Deployment**
-- 🤖 Interested in **Artificial Intelligence** and integrating AI into modern applications
-- 🚀 Love building real-world projects that solve practical problems
+🎓 Computer Science Student at **Cairo University**
 
----
+💻 Passionate about **Full Stack Development**
 
-## 🚀 Tech Stack
+⚛️ Specialized in **React** & **React Native**
 
-### Frontend
+🚀 Building scalable backend systems using **Node.js**, **Express**, **Prisma**, and **PostgreSQL**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+🤖 Interested in **Artificial Intelligence**, **Computer Vision**, and **Cloud Deployment**
 
-### Backend
+🐳 Currently learning **Docker**, **CI/CD**, **System Design**, and **Microservices**
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+🌱 I enjoy building products that solve real-world problems with clean and maintainable code.
 
 ---
 
-## 🌟 Featured Project
+# 🚀 Tech Stack
 
-### 🌿 Plantera
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,prisma,postgres,mongodb,docker,firebase,git,github,vscode,postman,figma&perline=10"/>
+</p>
 
-An AI-powered plant care platform that helps users:
+---
 
-- 🌱 Manage plant collections
-- 🔍 Diagnose plant diseases using AI
-- 📅 Track watering & fertilizing schedules
-- 📰 Read plant care articles
-- 👥 Join the plant community
-- 🔔 Receive reminders and notifications
+# 🌿 Featured Project
 
-**Tech Stack**
+## Plantera 🌱
+
+**Plantera** is an AI-powered smart plant care platform that combines modern web technologies with artificial intelligence.
+
+### ✨ Features
+
+- 🌱 Plant Collection Management
+- 🤖 AI Disease Detection
+- 📷 Plant Image Analysis
+- 💧 Watering & Fertilizing Reminders
+- 📚 Plant Care Articles
+- 👥 Community Posts, Comments & Likes
+- 📊 Dashboard & Analytics
+- 🔔 Smart Notifications
+
+### 🛠 Built With
 
 - React
 - TypeScript
 - Node.js
-- Express
-- Prisma
+- Express.js
+- Prisma ORM
 - PostgreSQL
 - Docker
 - AI Image Classification
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EssaMohy&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EssaMohy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=EssaMohy&theme=tokyonight"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=EssaMohy&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EssaMohy&layout=compact&theme=tokyonight"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EssaMohy&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EssaMohy&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=EssaMohy&theme=tokyonight&row=1&column=7&margin-w=10&no-frame=true"/>
+</p>
+
+---
+
+# ⚡ Coding Animation
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
+---
+
+# 💻 Favorite Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,postgres,docker,prisma,firebase,git&theme=dark"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action below to generate the snake automatically.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/EssaMohy/EssaMohy/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=EssaMohy&theme=onedark&margin-w=15"/>
+<a href="https://github.com/EssaMohy">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/essam-mohy">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:essammohy67@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://essam-folio.lovable.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+📧 **Email:** essammohy67@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/essam-mohy
+
+🌐 **Portfolio:** https://essam-folio.lovable.app/
+
+🐙 **GitHub:** https://github.com/EssaMohy
 
 </p>
 
 ---
 
-## 📫 Connect with Me
+# 💡 Quote
 
-- 📧 Email: **essammohy67@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/essam-mohy
-- 🌐 Portfolio: https://essam-folio.lovable.app/
-- 🐙 GitHub: https://github.com/EssaMohy
+<p align="center">
+
+> **"Code is like a plant — nurture it consistently, and it will grow into something extraordinary." 🌱**
+
+</p>
 
 ---
 
-## 💡 Quote
-
-> *"Code is like a plant—when nurtured with care, it grows into something amazing."* 🌿
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=150&section=footer"/>
+</p>
