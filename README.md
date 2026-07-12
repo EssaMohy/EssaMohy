@@ -113,8 +113,6 @@ Computer Science Student • Full Stack Developer • React & React Native Devel
 
 ---
 
-# ⚡ Coding Animation
-
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
@@ -164,18 +162,6 @@ Computer Science Student • Full Stack Developer • React & React Native Devel
 <a href="https://essam-folio.lovable.app/">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-
-</p>
-
-<p align="center">
-
-📧 **Email:** essammohy67@gmail.com
-
-💼 **LinkedIn:** https://linkedin.com/in/essam-mohy
-
-🌐 **Portfolio:** https://essam-folio.lovable.app/
-
-🐙 **GitHub:** https://github.com/EssaMohy
 
 </p>
 
