@@ -6,7 +6,7 @@ Computer Science Student • Full Stack Developer • React & React Native Devel
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;React+Native+Developer;Node.js+Backend+Developer;AI+Enthusiast;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;React+Native+Developer;Node.js+Backend;AI+Enthusiast;Always+Learning+🚀">
 </p>
 
 <p align="center">
