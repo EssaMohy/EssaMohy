@@ -116,8 +116,6 @@ Full Stack Developer • React & React Native Developer
 
 # 🐍 Contribution Snake
 
-> Enable the GitHub Action below to generate the snake automatically.
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/EssaMohy/EssaMohy/output/github-contribution-grid-snake-dark.svg"/>
 </p>
