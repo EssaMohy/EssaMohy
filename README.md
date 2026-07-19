@@ -146,12 +146,7 @@ Full Stack Developer • React & React Native Developer
 
 # 💡 Quote
 
-<p align="center">
-
-> **"Code is like a plant — nurture it consistently, and it will grow into something extraordinary." 🌱**
-
-</p>
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
 <p align="center">
