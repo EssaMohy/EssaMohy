@@ -129,15 +129,15 @@ Full Stack Developer • React & React Native Developer
     <img src="https://skillicons.dev/icons?i=github" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/essam-mohy/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:essammohy67@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://YOUR_PORTFOLIO_URL">
+  <a href="https://essam-folio.lovable.app/">
     <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
